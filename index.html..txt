@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>San Valentín</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-color: #ffe6e6;
+            margin: 20px;
+        }
+        h1 {
+            color: red;
+        }
+        img {
+            width: 150px;
+            margin: 20px 0;
+        }
+        p {
+            font-size: 18px;
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+    <h1>Hola, Amor mío</h1>
+    <p>Quise hacerte este pequeño detalle para recordarte cuánto te quiero. 💕</p>
+    <img src="https://via.placeholder.com/150" alt="Un detalle especial">
+    <p>¡Te espero con emoción para celebrar juntos el día de San Valentín! 💖</p>
+</body>
+</html>
